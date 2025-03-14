@@ -4,5 +4,5 @@ window.onload = function() {
 }
 
 function volverACalculadora() {
-    window.location.href = '/';
+   window.location.href = window.location.origin + '/calcuJA/resultado/resp.html';
 }
