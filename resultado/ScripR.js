@@ -4,5 +4,6 @@ window.onload = function() {
 }
 
 function volverACalculadora() {
-    window.location.href = './';
+    window.location.href = '../index.html';
 }
+
