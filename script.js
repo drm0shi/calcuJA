@@ -40,7 +40,7 @@ function calcular() {
         
         // Guardar el resultado y redirigir
         localStorage.setItem('resultadoCalculadora', resultado);
-        window.location.href = '/resultado/resp.html';
+        window.location.href = 'resultado/resp.html';
         
     } catch (error) {
         pantalla.textContent = 'Error';
